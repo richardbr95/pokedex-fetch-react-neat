@@ -63,6 +63,7 @@ function App() {
           </li>
         ))}
       </ul>
+      <h2 className="footer">Pokédex todos os direitos reservados.</h2>
     </div>
   );
 }
